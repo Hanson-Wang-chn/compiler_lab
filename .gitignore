@@ -1,0 +1,13 @@
+.vscode
+.idea
+.DS_Store
+.claude
+.codex
+.gemini
+__pycache__/
+*.pyc
+document.md
+debug.md
+doc.md
+supp.md
+README.md

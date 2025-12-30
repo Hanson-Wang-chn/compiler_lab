@@ -1,0 +1,6 @@
+int x = 5 ; real y = 2.5 ;
+{
+x = x + 3 ;
+y = y * 2 ;
+if ( x > y ) then y = y + 1 ; else y = y - 1 ;
+}
