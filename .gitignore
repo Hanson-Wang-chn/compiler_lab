@@ -6,7 +6,4 @@
 .gemini
 __pycache__/
 *.pyc
-document.md
-debug.md
 doc.md
-README.md
